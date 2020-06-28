@@ -1,0 +1,2 @@
+# quinn
+Practicing Q Learning
